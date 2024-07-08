@@ -3,8 +3,7 @@ export const Card = () => {
 
         <div className="pt-32 pb-32 h-96 flex items-center justify-center text-center m-12">
 
-            <div className="{`justify-center  bg-no-repeat bg-cover bg-center rounded-lg`} 
-style={{ backgroundImage: `url(${bgImage})`}}">
+            <div className="">
                 
             </div>
 

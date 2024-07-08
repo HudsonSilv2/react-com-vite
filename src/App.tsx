@@ -5,13 +5,13 @@ import { Header } from "./components/Header";
 function App() {
   return (
 
-    <div className="mb-32">
+    <div className="mb-32 ">
 
       <Header />
       <Card />
 
       <Footer />
-      
+
     </div>
   )
 }
