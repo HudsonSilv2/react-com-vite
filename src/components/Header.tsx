@@ -5,7 +5,7 @@ export const Header = () => {
         <div className="p-2 m-3">
             <ul className=" text-gray-700 flex items-center justify-evenly ">
 
-                <div className="w-16 h-16 cursor-pointer">
+                <div className="cursor-pointer">
                     <Logo />
                 </div>
 
