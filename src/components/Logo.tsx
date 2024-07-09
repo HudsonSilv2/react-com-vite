@@ -4,7 +4,7 @@ export const Logo = () => {
         <>
             <div className="h-16 w-16">
 
-                <img src="./src/imgs/logo_1.png" alt="" />
+                <img src="/imgs/logo_1.png" alt="" />
 
             </div>
 
